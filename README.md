@@ -1,0 +1,2 @@
+# myNewRepo
+to connect remotely
