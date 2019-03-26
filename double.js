@@ -1,5 +1,5 @@
 function double(x){
-return 3*x
+return 2*x
 }
 
 var y=5;
